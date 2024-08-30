@@ -1,0 +1,1 @@
+Development of clear and intuitive UI forms for creating pools. Use tooltips and information icons to guide users about each form field. Optimize loading states and error handling.

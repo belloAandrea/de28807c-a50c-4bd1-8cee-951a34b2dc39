@@ -1,0 +1,1 @@
+Usage of server-side caching to reduce server strain under heavy load. Additionally implement rate-limiting on user-end actions to prevent spamming and save server bandwidth.

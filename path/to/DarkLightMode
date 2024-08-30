@@ -1,0 +1,1 @@
+In your dark/light mode implementation, ensure there is consistent color contrast in both themes. The toggle should be easily discoverable, possibly in the main navigation or settings. Use CSS variables to make swapping between themes easier.

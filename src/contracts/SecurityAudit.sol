@@ -1,0 +1,1 @@
+Perform regular security audits on your deployed smart contracts. Also, make use of MetaMask's privacy mode to prevent exposure of user addresses on the front-end.

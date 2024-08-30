@@ -1,0 +1,1 @@
+Ensure the color contrast of your text is high enough for users with low vision to read comfortably. WCAG recommends a contrast ratio of at least 4.5:1 for normal text. Also, ensure all functional components are keyboard navigable and implement ARIA roles for enhanced screen reader support.

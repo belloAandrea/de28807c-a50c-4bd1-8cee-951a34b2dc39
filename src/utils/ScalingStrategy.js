@@ -1,0 +1,1 @@
+Implement a horizontal scaling strategy to accommodate more users as needed. You can partition user data to balance the load and provide responsive service.

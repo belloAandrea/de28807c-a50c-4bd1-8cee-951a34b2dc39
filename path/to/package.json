@@ -1,0 +1,1 @@
+Before adding any new libraries for UI/UX improvements, check their compatibility with Node.js 18.x. Update the 'package.json' accordingly to avoid version conflicts, and test thoroughly after installation. Be mindful of the potential for increased build times when adding new dependencies.
